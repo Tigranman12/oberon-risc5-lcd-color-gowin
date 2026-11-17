@@ -7,6 +7,12 @@ Mandelbrot set in colour, compiled on the board by Oberon's own compiler.
 
 ![ColorMandel on the board](docs/colormandel_board.jpg)
 
+ Stars on the board (Stars.Open, Stars.Run):
+
+https://github.com/user-attachments/assets/bd282070-c06d-4770-8375-9ca1aa237943
+
+
+
 | | |
 |---|---|
 | FPGA | Gowin GW1NR-9C (Tang Nano 9K): logic 4732 / 8640, block RAM 23 / 26 |
