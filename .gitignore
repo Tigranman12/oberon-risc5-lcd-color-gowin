@@ -1,0 +1,6 @@
+# build outputs (made by the steps in README.md)
+build/
+gowin/impl/
+gowin/prom.mem
+logs/
+__pycache__/
